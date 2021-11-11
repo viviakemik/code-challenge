@@ -30,8 +30,8 @@ Once you are done, please share with us:
 non-essential features that will differentiate you
 - Drag and Drop for team building
 - Infinite scroll and pagination listings
+- Use Redux to persist the data
 
 ### 🤔 Need Help?
 you can get in touch to clarify doubts
-- Discord - Kaio#4879
-- Email - guilherme.kaio@ibti.tech
+- Email - viviakemik@ibti.tech
